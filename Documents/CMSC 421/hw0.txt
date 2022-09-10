@@ -1,0 +1,1 @@
+I believe knowledge graphs will be very useful in stock market sentiment analysis combining NLP and machine learning to create knowledge graphs and analyze the sentiment of various financial instruments and use that to make to predictions
