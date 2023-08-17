@@ -1,0 +1,27 @@
+Name:
+PERM #: 
+
+Collaborators (who you talked to about the lab, what you talked about):
+
+
+Source material that you consulted:
+
+
+Other acknowledgments:
+
+How many excises you have successfully completed?
+Ex1:complete
+Ex2:no
+Ex3:complete
+Ex4:complete
+Ex5:no
+
+
+-------------------------------------------------------------------------------
+
+Responses to exercises (if any) that need to go into answers.txt:
+
+
+Anything else you'd like us to know:
+I have provided my code for exercise 2 but it is commented out to run.
+I implemented copy_pagetable using virtual mem look up and map and used similar logic to do exercise 5. However, I feel that I am missing something but not too far off.
