@@ -1,0 +1,8 @@
+CXX = gcc
+CXXFLAGS = -Wall -g -lpthread -lrt
+
+test_sem: buffer_sem.o test_sem.c
+        $(CXX) buffer_sem.o test_sem.c -o test_sem $(CXXFLAGS)
+
+buffer_sem.o: buffer_sem.h buffer_sem.c
+        $(CXX) buffer_sem.c -c $(CXXFLAGS)
